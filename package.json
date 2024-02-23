@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/feng696/feng696-tool"
   },
-  "author": "maximilian210",
+  "author": "mengxinxin",
   "license": "MIT",
   "dependencies": {
     "dayjs": "^1.11.10"
